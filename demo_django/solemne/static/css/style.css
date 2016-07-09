@@ -1,0 +1,39 @@
+.head{
+	background-color: #ff9800;
+	width: 100%;
+	height: 330px;
+}
+.headn{
+	background-color: #ff9800;
+	width: 100%;
+	height: 250px;
+}
+
+.registro{
+	height: 40px;
+}
+
+.registro2{
+	height: 40px;
+}
+
+.nsecciones{
+	color: #e65100;
+
+}
+.descripcionsecciones{
+	color: #7a7c89;
+}
+
+.servicios{
+	padding-top: 5px;
+	padding-bottom: 30px;
+}
+.cajaservicios{
+	width: 220px;
+	height: 120px;
+	border: solid 3px;
+	border-color: #ff9800;
+	margin-top: 25px;
+	padding-top: 15px;
+}

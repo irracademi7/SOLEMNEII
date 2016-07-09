@@ -1,0 +1,7 @@
+Solemne I  = 25%
+Solemne II = 25%
+Tarea I    = 15%
+Tarea II   = 15%
+Tarea III  = 20%
+
+
